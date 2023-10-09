@@ -1,7 +1,7 @@
 # Notes Maker - React App
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![]([CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg))
 
-This project is designed to simplify invoice management using React and Redux. It empowers users to effortlessly create detailed invoices, specifying quantities, prices, tax rates, and discounts. Once generated, these invoices can be conveniently downloaded as PDFs. Additionally, users have the flexibility to view, edit, or delete invoices from the list. For enhanced efficiency, the system also allows for the creation of new invoices using existing data.
+This application provides an intuitive and user-friendly interface for creating and managing your notes and ideas. With features like easy note creation, categorization, and the ability to save notes, it's your go-to tool for staying organized and productive. Built with React.js, this project showcases modern web development practices and a responsive design. Start taking better notes today!"
 
 ## Live Demo
 [https://enchanting-manatee-3aab8d.netlify.app](https://6523cb1eac0ed761cb50ceea--peaceful-entremet-69722b.netlify.app/)
@@ -14,21 +14,20 @@ This project is designed to simplify invoice management using React and Redux. I
 
 ### Installation
 Make sure you have Node.js version 16.20.2 installed.
-```
-git clone https://github.com/vikas22634/.git
+```[
+git clone https://github.com/vikas22634/Keeper_app.git
 
 npm install
 
 npm start 
 ```
 
-### To-Do
-- [x] Create new invoice and store it in Redux store
-- [x] Added save or edit invoice button in modal
-- [x] delete invoices from the invoice list
-- [x] Added router to view invoice list and invoice form on separate pages
-- [x] Added pagination to the invoice list
-- [x] Create an error page to handle not found routes
+### Short to-do about notes maker:
+- [x] Create, and delete notes
+- [x] Search for notes by title, content, or tag
+- [x] Save notes in a LocalStorage
+- [x] Support for dark mode
+- [x] Simple and user-friendly interface
 
 ### Meta
 
