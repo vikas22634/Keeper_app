@@ -1,5 +1,6 @@
 # Notes Maker - React App
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![]([CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg))
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Css](https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg)
 
 This application provides an intuitive and user-friendly interface for creating and managing your notes and ideas. With features like easy note creation, categorization, and the ability to save notes, it's your go-to tool for staying organized and productive. Built with React.js, this project showcases modern web development practices and a responsive design. Start taking better notes today!"
 
